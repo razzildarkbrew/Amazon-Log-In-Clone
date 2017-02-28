@@ -1,0 +1,66 @@
+body {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+}
+div {
+  max-height: 400px;
+  max-width: 300px;
+  border-radius: 5px;
+  border: 1px solid #DDE0E5;
+  padding: 20px;
+}
+img {
+
+  padding-left: 110px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #FF9900;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+label {
+
+}
+#create {
+  background-color: #DDE0E5;
+}
+a {
+  text-decoration: none;
+}
+footer li {
+  list-style: none;
+  float: left;
+  padding: 0 5px 0 5px;
+}
+footer p {
+  color: gray;
+  font-size: 12px;
+  padding: 0 40px 0 40px;
+}
